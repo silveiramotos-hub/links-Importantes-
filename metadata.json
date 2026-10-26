@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Launchpad Pro — Central de Links e IA",
+  "description": "Painel executivo de acesso rápido com 96 ferramentas de e-commerce, gestão, CRM e inteligência artificial organizadas em matriz responsiva de alta performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
